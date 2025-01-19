@@ -1,5 +1,3 @@
-以下是这个烟花程序的英文摘要：
-
 # Fireworks Simulation Program Summary
 
 This is a PyGame-based fireworks simulation program with the following key features:
